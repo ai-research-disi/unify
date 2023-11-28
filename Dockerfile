@@ -5,7 +5,7 @@ FROM ubuntu:18.04
 RUN apt-get update
 
 # Step 3: Install Python 3.7 and pip
-RUN apt-get install -y python3.7 python3.7-dev python7-pip
+RUN apt-get install -y python3.7 python3.7-dev python3-pip
 
 # Step 4: Set the working directory
 WORKDIR /app

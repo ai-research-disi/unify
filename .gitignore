@@ -119,7 +119,6 @@ dmypy.json
 models/
 results/
 data/set-cover/
-Dockerfile
 gurobi.lic
 *.lp
 *.mps

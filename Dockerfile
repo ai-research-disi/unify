@@ -18,4 +18,4 @@ COPY requirements.txt /app
 RUN pip3 install -r requirements.txt
 
 # Step 7: Set the Python 3.8 environment as default
-RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3 1

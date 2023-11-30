@@ -1,7 +1,7 @@
 # UNIFY: a Unified Policy Designing Framework for Solving Integrated Constrained Optimization and Machine Learning Problems
 
 Code to reproduce results of the paper *UNIFY: a Unified Policy Designing Framework for Solving Constrained Optimization 
-Problems with Machine Learning* under review at AAAI-2023 conference.
+Problems with Machine Learning*.
 
 ## Repository description
 
